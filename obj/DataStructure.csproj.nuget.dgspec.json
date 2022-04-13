@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ih097e\\Code\\Bimal\\DataStructure\\DataStructure.csproj": {}
+    "C:\\Code\\Personal\\DS-Tutorial\\DataStructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ih097e\\Code\\Bimal\\DataStructure\\DataStructure.csproj": {
+    "C:\\Code\\Personal\\DS-Tutorial\\DataStructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ih097e\\Code\\Bimal\\DataStructure\\DataStructure.csproj",
+        "projectUniqueName": "C:\\Code\\Personal\\DS-Tutorial\\DataStructure.csproj",
         "projectName": "DataStructure",
-        "projectPath": "C:\\Users\\ih097e\\Code\\Bimal\\DataStructure\\DataStructure.csproj",
+        "projectPath": "C:\\Code\\Personal\\DS-Tutorial\\DataStructure.csproj",
         "packagesPath": "C:\\Users\\ih097e\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ih097e\\Code\\Bimal\\DataStructure\\obj\\",
+        "outputPath": "C:\\Code\\Personal\\DS-Tutorial\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -24,7 +24,11 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://sres.web.boeing.com/artifactory/api/nuget/Nuget-Snapshot": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://sres.web.boeing.com/artifactory/api/nuget/Nuget-Boeing-Releases": {},
+          "https://sres.web.boeing.com/artifactory/api/nuget/Nuget-Boeing-Snapshot": {},
+          "https://sres.web.boeing.com/artifactory/api/nuget/Nuget-Snapshot": {},
+          "https://sres.web.boeing.com/artifactory/api/nuget/v3/Nuget-Boeing-Snapshot": {}
         },
         "frameworks": {
           "netcoreapp3.1": {

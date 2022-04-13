@@ -18,3 +18,17 @@ C:\Users\ih097e\Code\Bimal\DataStructure\bin\Debug\netcoreapp3.1\DataStructure.d
 C:\Users\ih097e\Code\Bimal\DataStructure\bin\Debug\netcoreapp3.1\DataStructure.pdb
 C:\Users\ih097e\Code\Bimal\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.csproj.AssemblyReference.cache
 C:\Users\ih097e\Code\Bimal\DataStructure\obj\Debug\netcoreapp3.1\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Personal\DS-Tutorial\bin\Debug\netcoreapp3.1\DataStructure.exe
+C:\Code\Personal\DS-Tutorial\bin\Debug\netcoreapp3.1\DataStructure.deps.json
+C:\Code\Personal\DS-Tutorial\bin\Debug\netcoreapp3.1\DataStructure.runtimeconfig.json
+C:\Code\Personal\DS-Tutorial\bin\Debug\netcoreapp3.1\DataStructure.runtimeconfig.dev.json
+C:\Code\Personal\DS-Tutorial\bin\Debug\netcoreapp3.1\DataStructure.dll
+C:\Code\Personal\DS-Tutorial\bin\Debug\netcoreapp3.1\DataStructure.pdb
+C:\Code\Personal\DS-Tutorial\obj\Debug\netcoreapp3.1\DataStructure.csproj.AssemblyReference.cache
+C:\Code\Personal\DS-Tutorial\obj\Debug\netcoreapp3.1\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Personal\DS-Tutorial\obj\Debug\netcoreapp3.1\DataStructure.AssemblyInfoInputs.cache
+C:\Code\Personal\DS-Tutorial\obj\Debug\netcoreapp3.1\DataStructure.AssemblyInfo.cs
+C:\Code\Personal\DS-Tutorial\obj\Debug\netcoreapp3.1\DataStructure.csproj.CoreCompileInputs.cache
+C:\Code\Personal\DS-Tutorial\obj\Debug\netcoreapp3.1\DataStructure.dll
+C:\Code\Personal\DS-Tutorial\obj\Debug\netcoreapp3.1\DataStructure.pdb
+C:\Code\Personal\DS-Tutorial\obj\Debug\netcoreapp3.1\DataStructure.genruntimeconfig.cache
